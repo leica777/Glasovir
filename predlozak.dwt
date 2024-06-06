@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="hr" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Baner</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.auto-style1 {
+	border-left-style: solid;
+	border-left-width: 3px;
+	border-right: 3px solid #C0C0C0;
+	border-top-style: solid;
+	border-top-width: 3px;
+	border-bottom: 3px solid #C0C0C0;
+	background-color: #C0C0C0;
+}
+.auto-style2 {
+	text-align: center;
+}
+.auto-style3 {
+	margin-top: 0px;
+}
+.auto-style4 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'buttonB.jpg',/*url*/'buttonC.jpg')">
+
+<table align="center" class="auto-style1" style="width: 750px; height: 500px">
+	<tr>
+		<td class="auto-style2" colspan="3" style="height: 99px">Baner</td>
+	</tr>
+	<tr>
+		<td style="width: 130px" valign="top"><!-- #BeginEditable "linkovi" -->
+		<p><!--webbot bot="Include" U-Include="linkovi.html" TAG="BODY" startspan -->
+
+<ul>
+	<li><a href="default.html">početna</a></li>
+	<li><a href="s1.html">stranica1</a></li>
+	<li><a href="s2.html">stranica2</a></li>
+	<li><a href="s3.html">stranica3</a></li>
+</ul>
+
+<!--webbot bot="Include" endspan i-checksum="25249" --></p>
+<!-- #EndEditable -->
+		</td>
+		<td style="width: 450px" valign="top"><!-- #BeginEditable "sadržaj" -->
+		<p><span class="auto-style4">Glasovir&nbsp;ili&nbsp;klavir&nbsp;<a href="https://hr.wikipedia.org/wiki/Glazbalo" title="Glazbalo">glazbeni 
+		je instrument</a>&nbsp;s tipkama koji zvuk proizvodi udarom batića povezanog 
+		s tipkom u&nbsp;<a href="https://hr.wikipedia.org/wiki/Žica" title="Žica">žicu</a>&nbsp;ugođenu 
+		na odgovarajući ton.
+		<img alt="Klavir Legnica" height="171" src="https://th.bing.com/th/id/OIP.UjYkWxsDpqxXsYmVSESs7AHaFj?rs=1&amp;pid=ImgDetMain" style="float: right" width="230" />Standardni 
+		opseg mu je od tona A u subkontri (A</span>2<span class="auto-style4">) 
+		do tona C u petoj oktavi (c</span>5<span class="auto-style4">), no neki 
+		modeli mogu proizvoditi i dublje tonove. Literatura za glasovir u 
+		pravilu se piše u dva usporedna&nbsp;<a href="https://hr.wikipedia.org/w/index.php?title=Crtovlje&amp;action=edit&amp;redlink=1" title="Crtovlje (stranica ne postoji)">crtovlja</a>; 
+		donje crtovlje se za lijevu ruku piše u&nbsp;<a href="https://hr.wikipedia.org/w/index.php?title=Klju%C4%8Devi_(glazba)&amp;action=edit&amp;redlink=1" title="Ključevi (glazba) (stranica ne postoji)">bas-ključu</a>, 
+		dok je gornje za desnu ruku u&nbsp;<a href="https://hr.wikipedia.org/w/index.php?title=Klju%C4%8Devi_(glazba)&amp;action=edit&amp;redlink=1" title="Ključevi (glazba) (stranica ne postoji)">violinskom 
+		ključu</a>. Zbog velikih tehničkih i muzičkih mogućnosti glasovir je 
+		instrument s vrlo bogatom glazbenom literaturom.</span></p>
+<!-- #EndEditable -->
+		</td>
+		<td style="width: 15px" valign="top">
+		<a href="http://www.google.com" target="_blank">google</a><br />
+		<a href="mailto:vida.kranjcec21@gmail.com?subject=Sa weba 1. razreda">
+		mail</a><br />
+		<a href="https://hr.wikipedia.org/wiki/Glasovir">
+		<img id="img1" alt="Klavir" height="20" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonC.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'buttonA.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonB.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'buttonB.jpg')" src="buttonA.jpg" style="border: 0" width="100" /><!-- MSComment="ibutton" fp-style="fp-btn: Border Bottom 1; fp-font-color-normal: #0000FF; fp-font-color-hover: #00FFFF; fp-font-color-press: #000080" fp-title="Klavir" --></a><br />
+		<map id="ImgMap0" name="ImgMap0">
+			<area alt="" coords="67, 49, 105, 101" href="https://hr.wikipedia.org/wiki/Klavijatura" shape="rect" target="_top" />
+		</map>
+		<img alt="Klavir" class="auto-style3" height="140" src="imgD.jpg" usemap="#ImgMap0" width="135" /><br />
+		<img alt="Klavirska spremljava med operacijo" height="72" src="5318414.jpg" width="130" /></td>
+	</tr>
+</table>
+<div>
+</div>
+
+</body>
+
+</html>
